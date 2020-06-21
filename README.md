@@ -1,2 +1,2 @@
 # Coursera_Capstone
-We are making they coursera capstone project.
+These Coursera_Capstone contains all they capstone projects which is in they course.
